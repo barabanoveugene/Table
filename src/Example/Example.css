@@ -1,0 +1,22 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 800px;
+}
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    vertical-align: initial;
+}
+th {
+    background: #b48b19;
+}
+.bg-grey {
+    background: #c1c1c1;
+}
+.email {
+    border: none;
+}
